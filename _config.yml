@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Welcome!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "My Name"
-description              : "Linguistics grad student."
+name                     : "Yingxuan Sabrina Wang"
+description              : "Linguistics grad student @ McGill University."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
